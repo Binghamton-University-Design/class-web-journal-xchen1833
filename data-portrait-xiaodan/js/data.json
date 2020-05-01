@@ -1,0 +1,273 @@
+{
+"key" :
+  {
+	  "1. Would you keep a dog or a cat as your pet?": {
+	    "x" : 0,
+      "y" : 0,
+      "DOG" : "Q1-dog.png",
+      "CAT" : "Q1-cat.png",
+      "is_text" : false
+    },
+	  "2. Would you keep a male pet or female pet?": {
+      "x" : 0,
+      "y" : 0,
+      "MALE" : "Q2-male.png",
+      "FMALE" : "Q2-female.png",
+      "is_text" : false
+    },
+	  "3. Would you spray or neuter it?": {
+      "x" : 0,
+      "y" : 0,
+      "SPRAYor NEUTER" : "Q3-yes.png",
+      "NO" : "Q3-no.png",
+      "is_text" : false
+    },
+	  "4. Would you buy a pet or adopt one?": {
+      "x" : 0,
+      "y" : 0,
+      "ADOPT" : "Q4-adopt.png",
+      "BUY" : "Q4-buy.png",
+      "is_text" : false
+    },
+	  "5. Would you have a baby pet or a fully-grown pet?": {
+      "x" : 0,
+      "y" : 0,
+      "BABY PET" : "Q5-baby.png",
+      "FULLY-GROWN PET" : "Q5-grown.png",
+      "is_text" : false
+    },
+	  "6.  Would you feed them with specialized food or fresh meat?": {
+      "x" : 0,
+      "y" : 0,
+      "SPECIALIZED" : "Q6-pet food.png",
+      "FRESH MEAT" : "Q6-fresh meat.png",
+      "is_text" : false
+   }
+  },
+"data" : [
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "FULLY-GROWN PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "FRESH MEAT"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "NO",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "FULLY-GROWN PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "FRESH MEAT"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "NO",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "NO",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "NO",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "FRESH MEAT"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "NO",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "DOG",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "ADOPT",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "MALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+  },
+  {
+    "1. Would you keep a dog or a cat as your pet?": "CAT",
+    "2. Would you keep a male pet or female pet?": "FMALE",
+    "3. Would you spray or neuter it?": "SPRAYor NEUTER",
+    "4. Would you buy a pet or adopt one?": "BUY",
+    "5. Would you have a baby pet or a fully-grown pet?": "BABY PET",
+    "6.  Would you feed them with specialized food or fresh meat?": "SPECIALIZED"
+   }
+]
+}
